@@ -35,6 +35,8 @@ description: 万物起源于ODE
 | --- | ---------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 |     | $\frac{\partial u}{\partial t} = t\frac{\partial u}{\partial x}$ | $\frac{\partial^2 u}{\partial x^2} = \frac{\partial^2 u}{\partial t^2}$ | $\frac{\partial u}{\partial t} = u\frac{\partial u}{\partial x} - \frac{\partial^2 u}{\partial x^2}$ |
 
+## Neural ODE
+
 ## References
 
 - 微分学的符号定义: https://en.wikipedia.org/wiki/Notation_for_differentiation
